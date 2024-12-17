@@ -1,0 +1,62 @@
+#Search{
+  margin-bottom: 12vh;
+    margin-right: 100px;
+}
+#titleHead{
+  font-weight: bold;
+  color: purple;
+  font-size: 30px;
+  margin-right: px;
+}
+
+body{
+    background-color:#030311;
+    color: whitesmoke;
+
+
+.navColor{
+    font-size: 19px;    
+
+}
+.navColor .nav-item .nav-link {
+    color: white !important;
+    background-color: purple;
+    ;
+
+  }
+  
+
+  .navColor .nav-link:hover {
+    color: lightblue !important; 
+
+  }
+ 
+
+.endingColor .nav-item .nav-link{
+  
+  color: azure !important;
+}
+ #ending {
+  color: white !important;
+}
+
+#catagory {
+  margin-top: -25px;
+}
+#dropdownl{
+  margin-top: 100vh !important;
+
+}
+#catagory .btn-warning {
+  color: white !important;
+  background-color: rgba(117, 111, 111, 0.176);
+  border-color: purple !important;
+}
+
+#slideshow{
+  margin-top: 500px;
+}
+ #vannda{
+  color: white !important;
+}
+
